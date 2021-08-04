@@ -1,0 +1,25 @@
+.userDiv {
+    width: 48%;
+    height: 100px;
+    margin: 10px;
+    font-size: 24px;
+    background: #7a32cc;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.detailsBtn {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    background: #f7aafa;
+}
